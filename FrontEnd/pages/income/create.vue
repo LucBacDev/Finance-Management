@@ -1,0 +1,7 @@
+<template>
+  
+  <IncomeCreate />
+
+</template>
+
+

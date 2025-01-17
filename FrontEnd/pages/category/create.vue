@@ -1,0 +1,8 @@
+<template>
+  
+    <CategoryCreate />
+  
+  </template>
+  
+  
+  

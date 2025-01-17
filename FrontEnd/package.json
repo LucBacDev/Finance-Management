@@ -1,0 +1,35 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "serve": "vite preview",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@vee-validate/nuxt": "^4.14.7",
+    "@vee-validate/yup": "^4.14.7",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.7",
+    "chart.js": "^4.4.6",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "nuxt": "^3.14.1592",
+    "postcss": "^8.4.49",
+    "sweetalert2": "^11.14.5",
+    "vee-validate": "^4.14.7",
+    "vite-plugin-inspect": "^0.8.8",
+    "vue": "latest",
+    "vue-router": "latest",
+    "vue3-google-login": "^2.0.33",
+    "vuex": "^4.1.0",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.81.0"
+  }
+}
